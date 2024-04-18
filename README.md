@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josesilveiraa07&label=Profile%20views&color=0e75b6&style=flat" alt="josesilveiraa07" /> </p>
 
-- 🔭 I’m currently working on **SBI School**
+- 🔭 I’m currently working on **SB Labs**
 
 - 💬 Ask me about **MongoDB, TypeScript, Nest.js and Express.**
 
